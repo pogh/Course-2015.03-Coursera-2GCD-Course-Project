@@ -15,8 +15,8 @@ Since this is a course project, the data was made available here:
 ## Input File Descriptions
 
 ### Folder UCI HAR Dataset
-	activity\_labels.txt: decodes the activity Id in the files /test/y_test.txt and /train/y_train.txt
-	features.txt: decodes the column names for test/X\_test.txt and train/X_train.txt
+activity_labels.txt: decodes the activity Id in the files /test/y_test.txt and /train/y_train.txt
+features.txt: decodes the column names for test/X_test.txt and train/X_train.txt
 
 ### Folder train
 	subject_train.txt: contains subject id for the observations
